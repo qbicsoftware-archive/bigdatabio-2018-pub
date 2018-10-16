@@ -1,6 +1,8 @@
 # Challenges Of Big Data Integration In The Life Sciences
 Script and data repository.
 
+Authors: Sven Fillinger, Luis de la Garza, Alexander Peltzer, Sven Nahnsen.
+
 ## Software License
 All software code in this repository is licensed under the MIT license. Please see [LICENSE](https://raw.githubusercontent.com/qbicsoftware/bigdatabio-2018-pub/master/LICENSE).
 
