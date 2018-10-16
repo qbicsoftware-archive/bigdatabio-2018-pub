@@ -1,4 +1,6 @@
 # Challenges Of Big Data Integration In The Life Sciences
+[![DOI](https://zenodo.org/badge/153250036.svg)](https://zenodo.org/badge/latestdoi/153250036)
+
 Script and data repository.
 
 ### Authors
