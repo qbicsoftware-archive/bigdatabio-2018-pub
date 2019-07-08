@@ -6,6 +6,8 @@ color2 = "#96E8CB"; color3 = "#B2EDC5"; color4 = "#C1FFE2"; totalcolor = "#3C5A3
 set style data histogram
 set style histogram cluster gap 1
 set style fill solid
+set xlabel "Year"
+set ylabel "Number of studies" 
 set boxwidth 0.9
 set xtics format ""
 set grid ytics
